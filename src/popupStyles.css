@@ -10,10 +10,6 @@ body {
     overflow-x: hidden;
 }
 
-.logo {
-    margin-bottom: 20px;
-}
-
 .listItem {
     display: flex;
     align-items: center;
