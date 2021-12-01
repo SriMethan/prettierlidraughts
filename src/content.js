@@ -16,7 +16,7 @@ function schemeSet(scheme) {
 // Coordinates
 
 //Check if using default board
-//if true, use lichess variable
+//if true, use lidraughts variable
 //else use custom variables
 
 chrome.storage.sync.get(null, function (result) {
