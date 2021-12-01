@@ -1709,8 +1709,8 @@ main.page-small {
 }
 
 .puz-side__top::before {
-    -webkit-mask-image: url(https://lichess1.org/assets/_coe7PY/images/icons/tornado.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_coe7PY/images/icons/tornado.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_coe7PY/images/icons/tornado.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_coe7PY/images/icons/tornado.svg) !important;
     background: var(--primaryColor) !important;
 }
 
@@ -1940,33 +1940,33 @@ button.rematch-decline::before {
 }
 
 .material mpiece.knight {
-    -webkit-mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/N.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/N.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/N.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/N.svg) !important;
 }
 
 .material mpiece.bishop {
-    -webkit-mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/B.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/B.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/B.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/B.svg) !important;
 }
 
 .material mpiece.pawn {
-    -webkit-mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/P.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/P.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/P.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/P.svg) !important;
 }
 
 .material mpiece.rook {
-    -webkit-mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/R.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/R.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/R.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/R.svg) !important;
 }
 
 .material mpiece.queen {
-    -webkit-mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/Q.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/Q.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/Q.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/Q.svg) !important;
 }
 
 .material mpiece.king {
-    -webkit-mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/K.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_PFQXbw/piece/mono/K.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/K.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_PFQXbw/piece/mono/K.svg) !important;
 }
 
 .ricons {
@@ -2762,8 +2762,8 @@ path[fill="url(#highcharts-7)"] {
     -webkit-mask-size: contain !important;
     -webkit-mask-position: center !important;
     -webkit-mask-repeat: no-repeat !important;
-    -webkit-mask-image: url(https://lichess1.org/assets/_PFQXbw/images/mascot/octopus.svg) !important;
-    mask-image: url(https://lichess1.org/assets/_PFQXbw/images/mascot/octopus.svg) !important;
+    -webkit-mask-image: url(https://lidraughts1.org/assets/_PFQXbw/images/mascot/octopus.svg) !important;
+    mask-image: url(https://lidraughts1.org/assets/_PFQXbw/images/mascot/octopus.svg) !important;
 }
 
 .mascot {
