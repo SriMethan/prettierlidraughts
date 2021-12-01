@@ -1,20 +1,20 @@
 {
-    "name": "Prettier Lichess",
+    "name": "Prettier Lidraughts",
     "version": "3.3.2",
     "manifest_version": 2,
-    "description": "Lichess, but prettier.",
+    "description": "Lidraughts, but prettier.",
     "icons": {
         "128": "icon_128.png"
     },
     "content_scripts": [{
-            "matches": ["*://lichess.org/*"],
-            "exclude_matches": ["*://lichess.org/api*"],
+            "matches": ["*://lidraughts.org/*"],
+            "exclude_matches": ["*://lidraughts.org/api*"],
             "run_at": "document_start",
             "css": ["styles.css"],
             "js": ["content.js"]
         },
         {
-            "matches": ["*://lichess.org/*"],
+            "matches": ["*://lidraughts.org/*"],
             "run_at": "document_idle",
             "js": ["postLoad.js"]
         }
@@ -22,7 +22,7 @@
     "browser_action": {
         "default_popup": "popup.html"
     },
-    "permissions": ["activeTab", "storage", "declarativeContent", "downloads", "*://lichess.org/*"],
+    "permissions": ["activeTab", "storage", "declarativeContent", "downloads", "*://lidraughts.org/*"],
     "background": {
         "scripts": ["background.js"],
         "persistant": false
